@@ -25,11 +25,11 @@ public class HelloWorld {
             return new HandlebarsTemplateEngine ().render (new ModelAndView (model,"index.handlebars"));
         });
 
-        post("/home", (req,  res) -> {
-
-            Map<String, Object> model= new HashMap<> ();
-            return new HandlebarsTemplateEngine ().render (new ModelAndView (model,"home.handlebars"));
-        });
+//        post("/", (req,  res) -> {
+//            NameReturn nameReturn = new NameReturn ();
+//            Map<String, Object> model= new HashMap<> ();
+//            return new HandlebarsTemplateEngine ().render (new ModelAndView (model,"index.handlebars"));
+//        });
     }
 
 }
