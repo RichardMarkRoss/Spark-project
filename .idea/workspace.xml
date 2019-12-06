@@ -3,13 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="6cc5b9e4-2956-4878-82ed-d13af1c62b6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Spark-Setup-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spark-Setup-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/Spark-Setup-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/Spark-Setup-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/HelloWorld.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
