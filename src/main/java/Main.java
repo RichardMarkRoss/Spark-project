@@ -7,7 +7,7 @@ import java.util.Map;
 
 import static spark.Spark.*;
 
-public class HelloWorld {
+public class Main {
     static int getHerokuAssignedPort() {
         ProcessBuilder processBuilder = new ProcessBuilder();
         if (processBuilder.environment().get("PORT") != null) {
