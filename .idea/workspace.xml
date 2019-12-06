@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc5b9e4-2956-4878-82ed-d13af1c62b6b" name="Default Changelist" comment="" />
+    <list default="true" id="6cc5b9e4-2956-4878-82ed-d13af1c62b6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NameReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/foundation.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.handlebars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.handlebars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.handlebars" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +23,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UbJGmemXwAjFzD3XYBYvLmNnoa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,11 +50,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -82,27 +105,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="278" y="45" width="802" height="679" key="#Project_Structure" timestamp="1575622078515">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="45" width="802" height="679" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1575622078515" />
-    <state width="1324" height="185" key="GridCell.Tab.0.bottom" timestamp="1575626732939">
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom" timestamp="1575635957872">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1575626732939" />
-    <state width="1324" height="185" key="GridCell.Tab.0.center" timestamp="1575626732937">
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1575635957872" />
+    <state width="1324" height="185" key="GridCell.Tab.0.center" timestamp="1575635957871">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1575626732937" />
-    <state width="1324" height="185" key="GridCell.Tab.0.left" timestamp="1575626732935">
+    <state width="1324" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1575635957871" />
+    <state width="1324" height="185" key="GridCell.Tab.0.left" timestamp="1575635957871">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1575626732935" />
-    <state width="1324" height="185" key="GridCell.Tab.0.right" timestamp="1575626732938">
+    <state width="1324" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1575635957871" />
+    <state width="1324" height="185" key="GridCell.Tab.0.right" timestamp="1575635957872">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1575626732938" />
+    <state width="1324" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1575635957872" />
     <state x="179" y="19" width="1007" height="732" key="SettingsEditor" timestamp="1575621918886">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -111,5 +137,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="347" y="36" width="664" height="697" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1575626163717" />
+    <state x="346" y="168" key="run.anything.popup" timestamp="1575631112645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="168" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1575631112645" />
   </component>
 </project>
